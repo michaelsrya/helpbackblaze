@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpbackblaze.readthedocs.io/en/latest/
